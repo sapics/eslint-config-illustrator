@@ -1,0 +1,24 @@
+{
+  "author": {
+    "name": "sapics"
+  },
+  "bugs": {
+    "url": "https://github.com/sapics/eslint-config-illustrator/issues"
+  },
+  "description": "Eslint configuration for Illustrator scripting",
+  "homepage": "https://github.com/sapics/eslint-config-illustrator",
+  "keywords": [
+    "eslintconfig",
+    "eslint",
+    "illustrator",
+    "adobe"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@sapics/eslint-config-illustrator",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sapics/eslint-config-illustrator.git"
+  },
+  "version": "1.0.0"
+}
